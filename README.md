@@ -1,4 +1,3 @@
-Here is a draft of a README file for your GitHub repository based on the provided content of your "CS Technical Seminar" presentation on "Prompt Engineering":
 
 ---
 
